@@ -178,5 +178,3 @@ Your script is structured well but can be **optimized** to:
 - **Use AJAX** instead of reloading pages.
 - **Reduce hardcoded delays (`sleep(10000)`).**
 - **Handle missing elements gracefully.**
-
-Would you like me to rewrite this with AJAX for smoother execution? 🚀
